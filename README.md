@@ -1,0 +1,1 @@
+This code runs in the arduino microcontroller to controlls the gps sensor and sim800l sms module so that it can respond to the requests from tracker android mobile app and respond with the requested information as needed
